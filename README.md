@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jyotirs-dev
+- 👋 Hi, I’m Jyotiraditya Solanki
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java Spring
 - 💞️ I’m looking to collaborate on Block Chain Frontend
